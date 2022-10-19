@@ -2,12 +2,12 @@
 Learnings about github and licenses
  
 ## Github Introduction
-1.We can access documents at a time
-
-
-
+1.
+2.
+3.
+4.
 ## License
-
-
-
-
+1.
+2.
+3.
+4.
